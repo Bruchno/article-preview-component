@@ -12,6 +12,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+button {
+  padding: 0;
+  border: none;
+  font: inherit;
+  color: inherit;
+  background-color: transparent;
+  cursor: pointer;
+}
 
 body {
     background-color: var(--bg-color-body);
@@ -184,4 +192,12 @@ body {
     .overlay-block {
         left: 54%;
     }
+}
+@media (max-width: 23rem) {
+  .share {
+    padding: 0;
+  }
+  .social-icon img {
+    margin: 0 0.5rem;
+   }
 }
