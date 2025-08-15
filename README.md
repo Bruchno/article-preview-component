@@ -28,7 +28,7 @@ If needed, external resources (icons, fonts, etc.) must be:
 This ensures **minimal document weight** and **maximum control**.
 
 ## 📷 Screenshot
-`screenshot.png` is placed in the root directory of the repository.
+screenshot.png 
 
 ## 📄 License
 This project is created for educational purposes.  
